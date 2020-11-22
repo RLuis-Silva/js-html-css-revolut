@@ -39,14 +39,12 @@
     }
     
     .nav_sx {
-        text-transform: uppercase;
         display: flex;
         align-items: center;
     
     }
     
     .nav_dx {
-        text-transform: capitalize;
         display: flex;
         align-items: center;
      
